@@ -5,7 +5,7 @@ Celem projektu było stworzenie interaktywnego narzędzia do analizy tematyki i 
 
 ### 📊 O danych
 Ze względu na **ograniczenia API Meta** (brak dostępu publicznego) oraz restrykcje prawne i techniczne dotyczące **automatycznego pobierania danych z zewnętrznych serwisów analitycznych** (np. SocialBlade, web scraping), w projekcie wykorzystano **zbiór danych syntetycznych (symulowanych)**.
-- **Nazwy profili:** Mają charakter poglądowy – część z nich nawiązuje do rzeczywistych podmiotów (np. unmute, Iwona Cichosz, muzeumslaskie), a część została wygenerowana na potrzeby testów.
+- **Nazwy profili:** Mają charakter poglądowy - część z nich nawiązuje do rzeczywistych podmiotów (np. unmute, Iwona Cichosz, muzeumslaskie), a część została wygenerowana na potrzeby testów.
 - **Zawartość:** Dane zawierają daty postów (2020-2026), treść, hashtagi oraz statystyki lajków i komentarzy.
 - **Kontekst:** Algorytm generatora uwzględnia specyfikę kont oraz wydarzenia historyczne (np. więcej treści o COVID w latach 2020-2021).
 

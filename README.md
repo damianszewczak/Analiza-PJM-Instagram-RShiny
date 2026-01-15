@@ -5,9 +5,9 @@ Celem projektu było stworzenie interaktywnego narzędzia do analizy tematyki i 
 
 ### 📊 O danych
 Ze względu na ograniczenia API Instagrama (brak dostępu publicznego), w projekcie wykorzystano **zbiór danych syntetycznych (symulowanych)**. 
-- Struktura danych odwzorowuje prawdziwe profile (np. Migam, Iwona Cichosz, PZG).
-- Dane zawierają: daty postów (2020-2026), treść, hashtagi oraz statystyki lajków i komentarzy.
-- Algorytm generatora uwzględnia specyfikę kont (np. treści o COVID w latach 2020-2021).
+- **Nazwy profili:** Mają charakter poglądowy – część z nich nawiązuje do rzeczywistych podmiotów (np. unmute, Iwona Cichosz, muzeumslaskie), a część została wygenerowana na potrzeby testów.
+- **Zawartość:** Dane zawierają daty postów (2020-2026), treść, hashtagi oraz statystyki lajków i komentarzy.
+- **Kontekst:** Algorytm generatora uwzględnia specyfikę kont oraz wydarzenia historyczne (np. więcej treści o COVID w latach 2020-2021).
 
 ### 🛠️ Technologie
 - **Język:** R

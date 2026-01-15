@@ -1,1 +1,1 @@
-# Analiza PJM Instagram RShiny
+# Analiza sieci influencerskich PJM na Instagramie
